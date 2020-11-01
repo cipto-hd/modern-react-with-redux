@@ -1,0 +1,21 @@
+[submodule "modern-react-with-redux_json-api"]
+	path = modern-react-with-redux_json-api
+	url = git@github.com:cipto-hd/modern-react-with-redux_json-api.git
+[submodule "json-api"]
+	path = json-api
+	url = git@github.com:cipto-hd/modern-react-with-redux_json-api.git
+[submodule "json-server-heroku"]
+	path = json-server-heroku
+	url = git@github.com:cipto-hd/modern-react-with-redux_json-server-heroku.git
+[submodule "components"]
+	path = components
+	url = git@github.com:cipto-hd/modern-react-with-redux_components.git
+[submodule "pics"]
+	path = pics
+	url = git@github.com:cipto-hd/modern-react-with-redux_pics.git
+[submodule "videos"]
+	path = videos
+	url = git@github.com:cipto-hd/modern-react-with-redux_videos.git
+[submodule "seasons"]
+	path = seasons
+	url = git@github.com:cipto-hd/modern-react-with-redux_seasons.git
