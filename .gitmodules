@@ -22,3 +22,6 @@
 [submodule "plain-redux"]
 	path = plain-redux
 	url = git@github.com:cipto-hd/modern-react-with-redux_plain-redux.git
+[submodule "songs"]
+	path = songs
+	url = git@github.com:cipto-hd/modern-react-with-redux_songs.git
