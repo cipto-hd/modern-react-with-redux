@@ -1,5 +1,5 @@
-[submodule "modern-react-with-redux_json-api"]
-	path = modern-react-with-redux_json-api
+[submodule "json-api"]
+	path = json-api
 	url = git@github.com:cipto-hd/modern-react-with-redux_json-api.git
 [submodule "json-api"]
 	path = json-api
