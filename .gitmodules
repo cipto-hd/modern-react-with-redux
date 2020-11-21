@@ -19,3 +19,6 @@
 [submodule "seasons"]
 	path = seasons
 	url = git@github.com:cipto-hd/modern-react-with-redux_seasons.git
+[submodule "plain-redux"]
+	path = plain-redux
+	url = git@github.com:cipto-hd/modern-react-with-redux_plain-redux.git
