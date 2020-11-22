@@ -25,3 +25,6 @@
 [submodule "songs"]
 	path = songs
 	url = git@github.com:cipto-hd/modern-react-with-redux_songs.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:cipto-hd/modern-react-with-redux_blog.git
