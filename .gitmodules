@@ -28,3 +28,12 @@
 [submodule "blog"]
 	path = blog
 	url = git@github.com:cipto-hd/modern-react-with-redux_blog.git
+[submodule "streams"]
+	path = streams
+	url = git@github.com:cipto-hd/modern-react-with-redux_streams.git
+[submodule "hooks-simple"]
+	path = hooks-simple
+	url = git@github.com:cipto-hd/modern-react-with-redux_hooks-simple.git
+[submodule "translate"]
+	path = translate
+	url = git@github.com:cipto-hd/modern-react-with-redux_translate.git
